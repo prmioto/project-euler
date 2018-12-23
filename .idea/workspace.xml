@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93d3b4c4-3793-4f50-b98c-e6a04e1514af" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ex50_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/project_euler/ex50_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex607.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/project_euler/ex607.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex607_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/project_euler/ex607_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="permutations_test.clj" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/project_euler/permutations_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex50.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/project_euler/ex50.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/project_euler/core_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="core.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/project_euler/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex48_test.clj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/project_euler/ex48_test.clj" />
+        <option value="$PROJECT_DIR$/test/project_euler/core_test.clj" />
+        <option value="$PROJECT_DIR$/test/project_euler/ex50_test.clj" />
+        <option value="$PROJECT_DIR$/src/project_euler/ex50.clj" />
+        <option value="$PROJECT_DIR$/src/project_euler/ex607.clj" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/test/project_euler/ex607_test.clj" />
+        <option value="$PROJECT_DIR$/test/project_euler/permutations_test.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1340" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project_euler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-euler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-euler" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="project_euler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="ReplState" timestamp="1515461154244">{:repl-history {:ide [], :local [{:command &quot;(require '[clojure.string :as string])&quot;, :offset 38, :ns &quot;user&quot;} {:command &quot;(primes-below 100)&quot;, :offset 18, :ns &quot;project-euler.core&quot;} {:command &quot;(reduce + 0 primes-below 100)&quot;, :offset 29, :ns &quot;project-euler.core&quot;} {:command &quot;(reduce + 0 (primes-below 100))&quot;, :offset 31, :ns &quot;project-euler.core&quot;} {:command &quot;(reduce + 0 \n        (filter) (primes-below 30)&quot;, :offset 47, :ns &quot;project-euler.core&quot;} {:command &quot;(reduce + 0 \n        (map #() (primes-below 30))&quot;, :offset 48, :ns &quot;project-euler.core&quot;} {:command &quot;(nthrest [1 2 3 4 5] 3)&quot;, :offset 23, :ns &quot;project-euler.core&quot;} {:command &quot;71&quot;, :offset 2} {:command &quot;(nthrest [1 2 3 4 5] 0\n         )4&quot;, :offset 34, :ns &quot;project-euler.core&quot;} {:command &quot;(nthrest [1 2 3 4 5] 0)&quot;, :offset 23, :ns &quot;project-euler.core&quot;} {:command &quot;(len [1 2 3])&quot;, :offset 13, :ns &quot;project-euler.core&quot;} {:command &quot;(length [1 2 3])&quot;, :offset 16, :ns &quot;project-euler.core&quot;} {:command &quot;(count [1 2 3])&quot;, :offset 15, :ns &quot;project-euler.core&quot;} {:command &quot;(let [primes (primes-below 100)]\n  (map\n    #(nthrest primes %)\n    (range (dec (count primes)))))\n    &quot;, :offset 103, :ns &quot;project-euler.core&quot;} {:command &quot;(let [primes (primes-below 20)]\n  (map\n    #(nthrest primes %)\n    (range (dec (count primes)))))\n    &quot;, :offset 28, :ns &quot;project-euler.core&quot;} {:command &quot;(primes)&quot;, :offset 7, :ns &quot;project-euler.core&quot;} {:command &quot;(println primes)&quot;, :offset 15, :ns &quot;project-euler.core&quot;} {:command &quot;\n(def primes-list\n  (let [primes (primes-below 20)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n    &quot;, :offset 129, :ns &quot;project-euler.core&quot;} {:command &quot;(println primes-list)&quot;, :offset 20, :ns &quot;project-euler.core&quot;} {:command &quot;prim&quot;, :offset 4} {:command &quot;\n(def primes-coll\n  (let [primes (primes-below 20)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n(println primes-coll)&quot;, :offset 145, :ns &quot;project-euler.core&quot;} {:command &quot;primes-coll&quot;, :offset 11, :ns &quot;project-euler.core&quot;} {:command &quot;(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(println\n \n(sum-n-items [2 3 4 5 6 7 8] 4)&quot;, :offset 100, :ns &quot;project-euler.core&quot;} {:command &quot;(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(println\n \n(sum-n-items [2 3 4 5 6 7 8] 4) )&quot;, :offset 101, :ns &quot;project-euler.core&quot;} {:command &quot;(take 3 [2 3 4 5 6 7])&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items [2 3 4 5 6 7 8] 4)&quot;, :offset 89, :ns &quot;user&quot;} {:command &quot;(ns project-euler.core)\n\n(defn find-first [f coll]\n    (first (filter f coll)))\n\n(defn divisors [n]\n  (filter #(zero? (mod n %)) (range 1 (inc n))))\n  \n(defn composite? [n]\n    (&gt; (count (divisors n)) 2))\n    \n(defn prime? [n]\n    (and (&gt; n 1) (not (composite? n))))\n\n(defn odd-composites []\n    (filter composite? (filter odd? (iterate inc 1))))    \n        \n(defn primes-below [n]\n  (loop [coll (range 2 n) primes []]\n    (if (empty? coll)\n      primes\n      (let [p (first coll)]\n          (recur (filter #(not (zero? (mod %1 p))) (rest coll)) (conj primes p))))))\n\n(defn primes []\n    (filter prime? (iterate inc 1)))\n    \n(defn prime-factors [n]\n  (filter #(zero? (mod n %)) (primes-below (inc (int (/ n 2))))))\n&quot;, :offset 717, :ns &quot;user&quot;} {:command &quot;(defn find-first [f coll]\n  (first (filter f coll)))\n\n(defn divisors [n]\n  (filter #(zero? (mod n %)) (range 1 (inc n))))\n\n(defn composite? [n]\n  (&gt; (count (divisors n)) 2))\n\n(defn prime? [n]\n  (and (&gt; n 1) (not (composite? n))))&quot;, :offset 229, :ns &quot;user&quot;} {:command &quot;(prime? 6)&quot;, :offset 10, :ns &quot;user&quot;} {:command &quot;\n(filter prime? (sum-n-items (primes-below 20) 4))\n&quot;, :offset 50, :ns &quot;user&quot;} {:command &quot;(defn odd-composites []\n  (filter composite? (filter odd? (iterate inc 1))))\n\n(defn primes-below [n]\n  (loop [coll (range 2 n) primes []]\n    (if (empty? coll)\n      primes\n      (let [p (first coll)]\n        (recur (filter #(not (zero? (mod %1 p))) (rest coll)) (conj primes p))))))\n\n(defn primes []\n  (filter prime? (iterate inc 1)))\n\n(defn prime-factors [n]\n  (filter #(zero? (mod n %)) (primes-below (inc (int (/ n 2))))))&quot;, :offset 426, :ns &quot;user&quot;} {:command &quot;(primes-below 20)&quot;, :offset 17, :ns &quot;user&quot;} {:command &quot;(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))&quot;, :offset 56, :ns &quot;user&quot;} {:command &quot;(filter prime? (sum-n-items (primes-below 20) 4))&quot;, :offset 49, :ns &quot;user&quot;} {:command &quot;( (sum-n-items (primes-below 20) 4))&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(sum-n-items (primes-below 20) 4)&quot;, :offset 33, :ns &quot;user&quot;} {:command &quot;(let [primes (primes-below 20)]\n  (filter\n    prime?\n    (map\n      #(sum-n-items %)\n      (map\n        #(take % primes)\n        (range (dec (count primes)))))))&quot;, :offset 83, :ns &quot;user&quot;} {:command &quot;(flatten [1 3 [4 5] 6])&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(range 1 4)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range 1 (dec (count primes))))))&quot;, :offset 129, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))&quot;, :offset 127, :ns &quot;user&quot;} {:command &quot;(primes-coll 20)&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(map #(list %1 %2) (range 10) (range 10))&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(filter\n  #(&lt; (first %) (second %))\n  (map #(list %1 %2) (range 10) (range 10))&quot;, :offset 79, :ns &quot;user&quot;} {:command &quot;(filter\n  #(&lt; (first %) (second %))\n  (map #(list %1 %2) (range 10) (range 10)))&quot;, :offset 80, :ns &quot;user&quot;} {:command &quot;(map\n  (fn [i]\n    (map\n      (fn [j]\n        (list i j)\n        (range (inc i) 5))))\n  (range 1 5)))&quot;, :offset 101, :ns &quot;user&quot;} {:command &quot;(map\n  (fn [i]\n    (map\n      (fn [j]\n        (list i j)\n        (range (inc i) 5))))\n  (range 1 5))&quot;, :offset 100, :ns &quot;user&quot;} {:command &quot;(map\n  (fn [i]\n    (map\n      (fn [j]\n        (+ i j)\n        (range (inc i) 5))))\n  (range 1 5))&quot;, :offset 97, :ns &quot;user&quot;} {:command &quot;(flatten\n  (map\n    (fn [i]\n      (map\n        (fn [j]\n          (list i j))\n        (range (inc i) 5)))\n    (range 1 5))\n  )&quot;, :offset 125, :ns &quot;user&quot;} {:command &quot;(flatten\n  (map\n    (fn [i]\n      (map\n        (fn [j]\n          (list i j))\n        (range (inc i) 5)))\n   \n    (range 1 5))\n  )&quot;, :offset 3} {:command &quot;(map\n  (fn [i]\n    (map\n      (fn [j]\n        (list i j))\n      (range (inc i) 5)))\n  (range 1 5))&quot;, :offset 98, :ns &quot;user&quot;} {:command &quot;(reduce\n  #(concat %1 %2)\n  ()\n  (map\n    (fn [i]\n      (map\n        (fn [j]\n          (list i j))\n        (range (inc i) 5)))\n    (range 1 5)))&quot;, :offset 144, :ns &quot;user&quot;} {:command &quot;(fn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) 5)))\n      (range 1 n))))\n\n(gen-subsets 5)&quot;, :offset 202, :ns &quot;user&quot;} {:command &quot;(defn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) 5)))\n      (range 1 n))))\n\n(gen-subsets 5)&quot;, :offset 204, :ns &quot;user&quot;} {:command &quot;(let [primes (primes-below n)]\n  (map\n    #(subvec primes (first %) (second %))\n    primes\n    gen-subsets 1 (count primes)))&quot;, :offset 125, :ns &quot;user&quot;} {:command &quot;(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    primes\n    gen-subsets 1 (count primes)))&quot;, :offset 126, :ns &quot;user&quot;} {:command &quot;(defn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) 5)))\n      (range 1 n))))\n\n(gen-subsets 5)\n\n\n(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    primes\n    gen-subsets 1 (count primes)))&quot;, :offset 333, :ns &quot;user&quot;} {:command &quot;(defn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) 5)))\n      (range 1 n))))\n\n(gen-subsets 5)\n\n\n(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    primes\n    gen-subsets (count primes)))&quot;, :offset 331, :ns &quot;user&quot;} {:command &quot;(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    primes\n    (gen-subsets (count primes))))&quot;, :offset 126, :ns &quot;user&quot;} {:command &quot;(defn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) 5)))\n      (range 1 n))))\n\n(gen-subsets 5)\n\n(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    primes\n    (gen-subsets (count primes))))&quot;, :offset 332, :ns &quot;user&quot;} {:command &quot;(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    (gen-subsets (count primes))))&quot;, :offset 115, :ns &quot;user&quot;} {:command &quot;(defn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 1 n))))\n\n(gen-subsets 5)\n\n(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    (gen-subsets (count primes))))&quot;, :offset 321, :ns &quot;user&quot;} {:command &quot;(defn gen-subsets [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-subsets 5)\n\n(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (second %))\n    (gen-subsets (count primes))))&quot;, :offset 321, :ns &quot;user&quot;} {:command &quot;(subvec [2 3 4 5 7] 0 1)&quot;, :offset 24, :ns &quot;user&quot;} {:command &quot;(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(let [primes (primes-below 20)]\n  (map\n    #(subvec primes (first %) (inc (second %)))\n    (gen-start-end-indexes (count primes))))&quot;, :offset 357, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sum-n-items (calc-sequence-primes 20))\n &quot;, :offset 673, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(map #(apply + %1) (calc-sequence-primes 20))\n &quot;, :offset 679, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(filter\n  prime?\n  (map #(apply + %1) (calc-sequence-primes 20)))\n &quot;, :offset 699, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(filter\n  prime?\n  (map #(list (apply + %1) %1) (calc-sequence-primes 20)))\n &quot;, :offset 709, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(filter\n  #(prime? (%1 :sum))\n  (map #(assoc {} :seq (apply + %1) :sum %1) (calc-sequence-primes 20)))\n &quot;, :offset 736, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(filter\n  #(prime? (%1 :sum))\n  (map #(assoc {} :sum (apply + %1) :seq %1) (calc-sequence-primes 20)))\n &quot;, :offset 736, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; %1 %2)\n  (filter\n    #(prime? (%1 :sum))\n    (map #(assoc {} :sum (apply + %1) :seq %1) (calc-sequence-primes 100))))\n &quot;, :offset 763, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :sum) (%2 :sum))\n  (filter\n    #(prime? (%1 :sum))\n    (map #(assoc {} :sum (apply + %1) :seq %1) (calc-sequence-primes 100))))\n &quot;, :offset 777, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (count (%1 :len) (%2 :len))\n      (filter\n        #(prime? (%1 :sum))\n        (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 100))))\n &quot;, :offset 812, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(prime? (%1 :sum))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 100))))\n &quot;, :offset 793, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(prime? (%1 :sum))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 1000\n                                                                                     ))))\n &quot;, :offset 878, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(prime? (%1 :sum))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 1000))))\n &quot;, :offset 792, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(and (prime? (%1 :sum)) (&lt; 100))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 100))))\n &quot;, :offset 807, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(and (prime? (%1 :sum)) (&lt; ((%1 :sum) 100)))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 100))))\n &quot;, :offset 819, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(and (prime? (%1 :sum)) (&lt; (%1 :sum) 100))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 100))))\n &quot;, :offset 817, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(sort\n  #(&gt; (%1 :len) (%2 :len))\n  (filter\n    #(and (prime? (%1 :sum)) (&lt; (%1 :sum) 1000))\n    (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 1000))))\n &quot;, :offset 819, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(first\n  (sort\n    #(&gt; (%1 :len) (%2 :len))\n    (filter\n      #(and (prime? (%1 :sum)) (&lt; (%1 :sum) 1000))\n      (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 100)))))\n\n(comment\n  {:sum 953, :seq [7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89], :len 21}\n  )\n&quot;, :offset 941, :ns &quot;user&quot;} {:command &quot;(defn primes-coll [n]\n  (let [primes (primes-below n)]\n    (map\n      #(nthrest primes %)\n      (range (dec (count primes))))))\n\n(defn sum-n-items [coll n]\n  (reduce + 0 (take n coll)))\n\n(sum-n-items (primes-below 20) 4)\n\n(defn gen-start-end-indexes [n]\n  (reduce\n    #(concat %1 %2)\n    ()\n    (map\n      (fn [i]\n        (map\n          (fn [j]\n            (list i j))\n          (range (inc i) n)))\n      (range 0 n))))\n\n(gen-start-end-indexes 5)\n\n(defn calc-sequence-primes [max-lim]\n  (let [primes (primes-below max-lim)]\n    (map\n      #(subvec primes (first %) (inc (second %)))\n      (gen-start-end-indexes (count primes)))))\n\n(first\n  (sort\n    #(&gt; (%1 :len) (%2 :len))\n    (filter\n      #(and (prime? (%1 :sum)) (&lt; (%1 :sum) 1000000))\n      (map #(assoc {} :sum (apply + %1) :seq %1 :len (count %1)) (calc-sequence-primes 10000)))))\n\n(comment\n  {:sum 953, :seq [7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89], :len 21}\n  )\n&quot;, :offset 946, :ns &quot;user&quot;} {:command &quot;(defn absolute-difference ^double [^double x ^double y]\n  (Math/abs (double (- x y))))\n\n(defn relative-difference ^double [^double x ^double y]\n  (/ (Math/abs (- x y))\n     (max (Math/abs x) (Math/abs y))))\n\n(def difference absolute-difference)&quot;, :offset 244, :ns &quot;user&quot;} {:command &quot;(defn close? [tolerance x y]\n  (&lt; (difference x y) tolerance))&quot;, :offset 62, :ns &quot;user&quot;} {:command &quot;(close? (0.7071 (Math/cos (Math/toRadians (45)))))&quot;, :offset 50, :ns &quot;user&quot;} {:command &quot;(close? (0.7071 (Math/cos (Math/toRadians (45.0)))))&quot;, :offset 52, :ns &quot;user&quot;} {:command &quot;(close? (0.01 0.7071 (Math/cos (Math/toRadians (45.0)))))&quot;, :offset 14, :ns &quot;user&quot;} {:command &quot;(close? (1e-2 0.7071 (Math/cos (Math/toRadians (45.0)))))&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;(close? \n  (1e-2 0.7071 \n    (Math/cos \n      (Math/toRadians 45.0))))&quot;, :offset 70, :ns &quot;user&quot;} {:command &quot;(close? \n  1e-2 \n  0.7071 \n  (Math/cos \n      (Math/toRadians 45.0)))&quot;, :offset 69, :ns &quot;user&quot;} {:command &quot;(close? \n  1e-5 \n  0.7071 \n  (Math/cos \n      (Math/toRadians 45.0)))&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(close? \n  1e-10 \n  0.7071 \n  (Math/cos \n      (Math/toRadians 45.0)))&quot;, :offset 16, :ns &quot;user&quot;} {:command &quot;(close? \n  1e-2 \n  0.707\n  (Math/cos \n      (Math/toRadians 45.0)))&quot;, :offset 15, :ns &quot;user&quot;} {:command &quot;(close? \n  1e-2 \n  0.7\n  (Math/cos \n      (Math/toRadians 45.0)))&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(close? \n  1e-2 \n  0.9\n  (Math/cos \n      (Math/toRadians 45.0)))&quot;, :offset 22, :ns &quot;user&quot;} {:command &quot;(meta absolute-difference)&quot;, :offset 26, :ns &quot;user&quot;} {:command &quot;(close? 0.01 2.3 2.4)&quot;, :offset 21, :ns &quot;user&quot;} {:command &quot;(close? 0.01 2.390 2.4)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(close? 0.01 2.389 2.4)&quot;, :offset 23, :ns &quot;user&quot;} {:command &quot;(close? 0.01 2.391 2.4)&quot;, :offset 23, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Clojure REPL.REPL for project-euler">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="REPL for project-euler" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="project-euler" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+    </configuration>
+    <configuration name="core_test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="project-euler" />
+      <setting name="path" value="$PROJECT_DIR$/test/project_euler/core_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/project_euler" />
+    </configuration>
+    <configuration name="project-euler.core-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="project-euler" />
+      <setting name="path" value="$PROJECT_DIR$/test/project_euler/core_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/project_euler" />
+    </configuration>
+    <configuration name="project-euler.ex48-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="project-euler" />
+      <setting name="path" value="$PROJECT_DIR$/test/project_euler/ex48_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/project_euler" />
+    </configuration>
+    <configuration name="project-euler.ex50-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="project-euler" />
+      <setting name="path" value="$PROJECT_DIR$/test/project_euler/ex50_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/project_euler" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Clojure REPL.REPL for project-euler" />
+      <item index="1" class="java.lang.String" itemvalue="Clojure Application.project-euler.core-test" />
+      <item index="2" class="java.lang.String" itemvalue="Clojure Application.project-euler.ex48-test" />
+      <item index="3" class="java.lang.String" itemvalue="Clojure Application.core_test" />
+      <item index="4" class="java.lang.String" itemvalue="Clojure Application.project-euler.ex50-test" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Clojure Application.project-euler.ex50-test" />
+        <item index="1" class="java.lang.String" itemvalue="Clojure Application.core_test" />
+        <item index="2" class="java.lang.String" itemvalue="Clojure Application.project-euler.core-test" />
+        <item index="3" class="java.lang.String" itemvalue="Clojure Application.project-euler.ex48-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93d3b4c4-3793-4f50-b98c-e6a04e1514af" name="Default" comment="" />
+      <created>1515201066899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515201066899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32674772" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26595744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24924012" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25835866" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/project_euler/core.clj</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(testing &quot;tests the list of primes below a specified number&quot;
+        (is (= '() (primes-below 1)))
+        (is (= '() (primes-below 2)))
+        (is (= '(2) (primes-below 3)))
+        (is (= '(2 3) (primes-below 4)))
+        (is (= '(2 3 5) (primes-below 6)))
+        (is (= '(2 3 5 7 11 13) (primes-below 17))))
+        (is (= '(2 3 5 7 11 13 17 19 23 29 31 37 41 43 47) (primes-below 50))))
+        (is (= '(2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97) (primes-below 100))</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(= '(2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97) (primes-below 100))</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(= '(2 3 5 7 11 13 17 19 23 29 31 37 41 43 47) (primes-below 100))</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(primes-below 100)</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(testing &quot;tests the list of primes below a specified number&quot;
+        (is (= '() (primes-below 1)))
+        (is (= '() (primes-below 2)))
+        (is (= '(2) (primes-below 3)))
+        (is (= '(2 3) (primes-below 4)))
+        (is (= '(2 3 5) (primes-below 6)))
+        (is (= '(2 3 5 7 11 13) (primes-below 17))))
+        (is (= '(2 3 5 7 11 13 17 19 23 29 31 37 41 43 47) (primes-below 50)))</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(primes-below 50)</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(primes-below 4)</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'(2 3)</expression-string>
+        <language-id>Clojure</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex50_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex607.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex50.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex607_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex50_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex607.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex50.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex607_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex50_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex50.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex50_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex48.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/ConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/ConstructorAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex48.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" lean-forward="false" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex50.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex48_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex607_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project_euler/ex607.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/ex50_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/project_euler/permutations_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>project-euler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Leiningen: clojure-complete:0.2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,228 @@
+(ns project-euler.ex54
+    (require [clojure.string :as str])
+    (require [clojure.java.io :as io]))
+
+(def suit-names
+    "Map that associates the letter that represents a card suit." 
+    {\H :H \S :S \C :C \D :D})
+    
+(def kind-names
+    "Map that associates the letter that represents a card kind." 
+    {\2 :c2 \3 :c3 \4 :c4 \5 :c5 \6 :c6 \7 :c7 \8 :c8 \9 :c9 \T :cT \J :cJ \Q :cQ \K :cK \A :cA})
+
+(def kind-ranks
+    "Map that associates the letter that represents a card kind." 
+    {:c2 1 :c3 2 :c4 3 :c5 4 :c6 5 :c7 6 :c8 7 :c9 8 :cT 9 :cJ 10 :cQ 11 :cK 12 :cA 13})
+
+(defrecord Card [suit kind rank shorthand])
+
+(defn create-card
+  "Creates a card from its shorthand."
+  [card-sh]
+  (let [suit-sh (second card-sh) kind-sh (first card-sh)]
+    (let [suit (suit-names suit-sh) kind (kind-names kind-sh) rank (kind-ranks kind) shorthand card-sh]
+        (Card. suit kind rank shorthand))))
+  
+(defn compare-cards
+    "Returns a negative number, zero, or a positive number
+    when the card1 has a rank 'less than', 'equal to', or 'greater than' card2."
+    [card1 card2]
+    (let [card1-rank (:rank card1) card2-rank (:rank card2)]
+        (if (= card1-rank card2-rank)
+            0
+            (if (> card1-rank card2-rank) 1 -1))))
+            
+(def hand-rank 
+    {:high-card 1
+     :one-pair 2
+     :two-pairs 3
+     :three-of-a-kind 4
+     :straight 5
+     :flush 6
+     :full-house 7
+     :four-of-a-kind 8
+     :straight-flush 9
+     :royal-flush 10})
+     
+(def hand-cards 5)
+
+(defn create-hand [hand-str]
+    (sort #(> (:rank %1) (:rank %2)) (map create-card (str/split hand-str #" "))))
+
+(defn dump-hand [hand]
+    (str/join " " (map #(:shorthand %1) hand)))
+
+(defn acc-diff [coll]
+    (println coll)
+    (:acc
+        (reduce 
+            #(assoc 
+                {} 
+                :acc (+ (:acc %1) (- (:prev %1) %2)) 
+                :prev %2)
+            {:acc 0 :prev (first coll)}
+            (rest coll))))
+            
+(acc-diff [10 11 12 13 9])
+
+(defn consecutive? [coll]
+    (let [n (count coll)]
+        (= 
+            (dec n)
+            (acc-diff coll))))
+                    
+(consecutive? [3 5 2 1 6 4])
+
+(defn consecutive-hand? [hand]
+    (consecutive? (map #(:rank %) hand)))
+
+(def generic-test-hand (create-hand "6D 9H 5C KS 2H"))
+(def consecutive-testhand (create-hand "6H 4H 5C 3H 2H"))
+(def nonconsecutive-testhand (create-hand "4C QS QC AC KH"))
+    
+(println (consecutive-hand? consecutive-testhand))
+(println (consecutive-hand? nonconsecutive-testhand))
+
+(def flush-test-hand (create-hand "4C QC QC AC KC"))
+(def straight-test-hand (create-hand "6S 4C 5D 3C 2H"))
+(def straight-flush-test-hand (create-hand "6C 4C 5C 3C 2C"))
+(def royal-flush-test-hand (create-hand "JC TC QC AC KC"))
+    
+(defn is-straight? [hand]
+    (consecutive-hand? hand))
+        
+(is-straight? consecutive-testhand) 
+(is-straight? nonconsecutive-testhand) 
+
+(defn same-suit-hand? [hand]
+    (apply = (map #(:suit %) hand)))    
+    
+(println (same-suit-hand? straight-flush-test-hand))
+(println (same-suit-hand? royal-flush-test-hand))
+
+(defn is-flush? [hand]
+    (same-suit-hand? hand))
+    
+(println (is-flush? flush-test-hand))
+ 
+(defn is-straight-flush? [hand]
+    (and
+        (same-suit-hand? hand)
+        (consecutive-hand? hand)))
+
+(is-straight-flush? consecutive-testhand)
+(is-straight-flush? straight-flush-test-hand)
+
+(def safe-inc (fnil inc 0))
+
+(defn get-kind-frequencies [hand]
+    (reduce
+        #(assoc %1 (:kind %2) (safe-inc ((:kind %2) %1)))
+        {}
+        hand))
+        
+(println (get-kind-frequencies flush-test-hand))
+
+(defn is-n-of-a-kind? [hand n]
+    (println (dump-hand hand))
+    (if (nil? (some #(>= % n) (vals (get-kind-frequencies hand))))
+        false
+        true))
+
+(defn get-pairs-number [hand]
+    (reduce
+        #(if (= 2 %2) (inc %1) %1)
+        0
+        (vals (get-kind-frequencies hand))))
+        
+(defn is-one-pair? [hand]
+    (= 1 (get-pairs-number hand)))
+    
+(defn is-two-pairs? [hand]
+    (= 2 (get-pairs-number hand)))
+    
+(defn is-three-of-a-kind? [hand]
+    (is-n-of-a-kind? hand 3))
+  
+(defn is-four-of-a-kind? [hand]
+    (is-n-of-a-kind? hand 4))  
+    
+(defn is-full-house? [hand]
+    (let [frequencies (vals (get-kind-frequencies hand))]
+        (println (dump-hand hand) frequencies)
+        (= (set [2 3]) (set frequencies))))
+        
+(defn is-royal-flush? [hand]
+    (and
+        (same-suit-hand? hand)
+        (consecutive-hand? hand)
+        (= :cA (:kind (first hand)))))
+
+(def one-pair-test-hand (create-hand "4C QC QH 6D KC"))
+(is-one-pair? one-pair-test-hand)
+(is-one-pair? generic-test-hand)    
+
+(def two-pairs-test-hand (create-hand "4C QC QH KD KC"))
+(is-two-pairs? two-pairs-test-hand)
+(is-two-pairs? generic-test-hand)    
+ 
+(def three-of-a-kind-test-hand (create-hand "4C QC QH QD KC"))
+(is-three-of-a-kind? three-of-a-kind-test-hand)
+(is-three-of-a-kind? generic-test-hand)
+
+(def four-of-a-kind-test-hand (create-hand "4C QC QH QD QS"))
+(is-four-of-a-kind? four-of-a-kind-test-hand)
+(is-four-of-a-kind? generic-test-hand)
+
+(def full-house-test-hand (create-hand "4C QC QH QD 4S"))
+(is-full-house? full-house-test-hand)
+(is-full-house? generic-test-hand) 
+
+(is-royal-flush? royal-flush-test-hand)
+(is-royal-flush? generic-test-hand) 
+
+(defn get-poker-hand [hand]
+    (cond
+        (is-royal-flush? hand) :royal-flush
+        (is-straight-flush? hand) :straight-flush
+        (is-four-of-a-kind? hand) :four-of-a-kind
+        (is-full-house? hand) :full-house
+        (is-flush? hand) :flush
+        (is-straight? hand) :straight
+        (is-three-of-a-kind? hand) :three-of-a-kind
+        (is-two-pairs? hand) :two-pairs
+        (is-one-pair? hand) :one-pair
+        :else :high-card))
+
+(println (dump-hand one-pair-test-hand) (get-poker-hand one-pair-test-hand))
+(println (dump-hand two-pairs-test-hand) (get-poker-hand two-pairs-test-hand))          
+(println (dump-hand three-of-a-kind-test-hand) (get-poker-hand three-of-a-kind-test-hand))
+(println (dump-hand straight-test-hand) (get-poker-hand straight-test-hand))
+(println (dump-hand flush-test-hand) (get-poker-hand flush-test-hand))
+(println (dump-hand full-house-test-hand) (get-poker-hand full-house-test-hand))
+(println (dump-hand four-of-a-kind-test-hand) (get-poker-hand four-of-a-kind-test-hand))
+(println (dump-hand straight-flush-test-hand) (get-poker-hand straight-flush-test-hand))
+(println (dump-hand royal-flush-test-hand) (get-poker-hand royal-flush-test-hand))
+
+(defn showdown [hand1 hand2]
+    (let 
+        [poker-hand1 (get-poker-hand hand1)
+         poker-hand2 (get-poker-hand hand2)
+         rank-hand1 (hand-rank poker-hand1)
+         rank-hand2 (hand-rank poker-hand2)]
+         (println (dump-hand hand1) poker-hand1 (dump-hand hand2) poker-hand2)
+         (if (= rank-hand1 rank-hand2)
+            :tie
+            (if (> rank-hand1 rank-hand2) 
+                :hand1-wins
+                :hand2-wins))))
+
+(let [game-file "resources/p054_poker.txt"]
+    (with-open [rdr (io/reader game-file)]
+        (doseq [line (line-seq rdr)]
+            (let 
+                [hand1 (create-hand (subs line 0 14))
+                 hand2 (create-hand(subs line 15))]
+                 (println (showdown hand1 hand2))))))
+
+                
